@@ -11,7 +11,7 @@ The **Dog Breed Prediction App** is a Streamlit-based web application that allow
 - Simple and interactive user interface powered by Streamlit.
 
 ## Dataset
-The model is trained on a dataset of various dog breeds, likely sourced from **Stanford Dogs Dataset** or similar datasets. The images are preprocessed and fed into a convolutional neural network (CNN) for classification.
+The model is trained on a dataset of various dog breeds, likely sourced from **Kaggle**. The images are preprocessed and fed into a convolutional neural network (CNN) for classification.
 
 ## Technologies Used
 - **Python**
@@ -25,7 +25,7 @@ To run the app locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dog-breed-predictor.git
+git clone https://github.com/tasnimuldatascience/dog-breed-predictor-app.git
 cd dog-breed-predictor
 
 # Create a virtual environment (optional but recommended)
